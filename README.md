@@ -5,5 +5,8 @@ UI learning project (Figma UI Screens)
 [UI_Screen_pdf.pdf](https://github.com/DhorajiyaNency07/ui_learning_project/files/10978096/UI_Screen_pdf.pdf)
 
 # video
+
+![gif_ui](https://user-images.githubusercontent.com/109361169/230756487-cff9d299-a36d-4996-a1e3-bf23c9317710.gif)
 ![gif_img](https://user-images.githubusercontent.com/109361169/230756042-3d798e42-6aab-42ef-86dd-d2f0fbde7672.gif)
 ![gif_img_ui](https://user-images.githubusercontent.com/109361169/230756120-c1b95834-d57b-4e1b-a6cb-ab5073008488.gif)
+
