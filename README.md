@@ -6,4 +6,4 @@ UI learning project (Figma UI Screens)
 
 # video
 https://user-images.githubusercontent.com/109361169/230755352-90139b61-68cb-4c40-8f76-5cb1a319d5ef.mp4
-
+https://user-images.githubusercontent.com/109361169/230755629-6bc9154a-20b6-4d8c-8770-d4d6ff6b27b9.mp4
