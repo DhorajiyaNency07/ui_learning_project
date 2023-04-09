@@ -7,3 +7,4 @@ UI learning project (Figma UI Screens)
 # Images
 ![gif_img](https://user-images.githubusercontent.com/109361169/230757650-acb64923-bcc1-4e66-b7e1-143137d0021a.gif)
 ![img_gif](https://user-images.githubusercontent.com/109361169/230757712-18b99bd1-c08a-4f53-8991-91cb01ba433d.gif)
+![gif](https://user-images.githubusercontent.com/109361169/230757784-7154de04-a34e-41f0-94cc-2d31a98f4518.gif)
